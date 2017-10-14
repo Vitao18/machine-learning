@@ -25,6 +25,7 @@
     "whatwg-fetch": "^2.0.2"
   },
   "devDependencies": {
+    "babel-eslint": "^8.0.1",
     "eslint": "^4.8.0",
     "eslint-config-airbnb": "^16.0.0",
     "eslint-plugin-import": "^2.7.0",
